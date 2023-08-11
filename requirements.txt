@@ -1,0 +1,7 @@
+requests
+itables
+pandas
+geopandas
+contextily
+tqdm
+ipywidgets
